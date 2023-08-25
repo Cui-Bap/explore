@@ -1,12 +1,12 @@
 version: 2
-updates:
+updates:dependabot.yml
   - package-ecosystem: github-actions
     directory: "/"
-    schedule:
+    schedule: kiểm tra bảo mật& vá lổ hổng bảo mật
       interval: daily
       time: "10:00"
-      timezone: Europe/Vienna
+      timezone: Europe/VietNam
     pull-request-branch-name:
       separator: "-"
     open-pull-requests-limit: 99
-    rebase-strategy: disabled
+    rebase-strategy: doanh nghiệp
