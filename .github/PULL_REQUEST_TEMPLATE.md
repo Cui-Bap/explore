@@ -1,14 +1,14 @@
 <!-- Thank you for contributing! -->
 ### Please confirm this pull request meets the following requirements:
 
-- [ ] I followed the contributing guidelines: <https://github.com/github/explore/blob/main/CONTRIBUTING.md>.
-- [ ] I have no affiliation with the project I am suggesting (as a maintainer, creator, contractor, or employee).
+- I followed the contributing guidelines: <https://github.com/github/explore/blob/main/CONTRIBUTING.md>.
+- I have no affiliation with the project I am suggesting (as a maintainer, creator, contractor, or employee).
 
 ### Which change are you proposing?
 
-  - [ ] Suggesting edits to an existing topic or collection
-  - [ ] Curating a new topic or collection
-  - [ ] Something that does not neatly fit into the binary options above
+  - [#] Suggesting edits to an existing topic or collection
+  - [#] Curating a new topic or collection
+  - [#] Something that does not neatly fit into the binary options above
 
 ---
 
